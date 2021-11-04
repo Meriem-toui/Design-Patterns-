@@ -5,6 +5,7 @@ public abstract class Boisson {
 
     public abstract double  cout();
     public String getDescription(){
+
         return description;
     }
 
